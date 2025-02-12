@@ -10,6 +10,10 @@ export default defineConfig({
             input: {
                 main: resolve(__dirname, "index.html"),
                 about: resolve(__dirname, "about/index.html"),
+                clicker:resolve(__dirname,"Clicker/index.html"),
+                dream:resolve(__dirname, "My Dream Project/index.html"),
+                whyistarted:resolve(__dirname, "Why-I-Started/index.html"),
+                
             },
         },
     },
